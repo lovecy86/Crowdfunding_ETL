@@ -3,6 +3,11 @@
 ## Overview
 This project analyzes crowdfunding data by integrating PostgreSQL with Python using Pandas, SQLAlchemy, and Psycopg2. The project involves cleaning, transforming, and storing data in a structured PostgreSQL database, making it accessible for further analysis.
 
+## Team Members
+1. Evan Gowans
+2. Karla Lopez
+3. Lovecy Thomas
+
 ## Technologies Used
 •	Python: Data processing and database integration
 •	PostgreSQL: Relational database for structured data storage
