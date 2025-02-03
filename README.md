@@ -4,6 +4,11 @@ Project 2 - ETL pipeline using Python, Pandas and Python dictionary
 ## Overview
 This ETL (Extract, Transform, Load) mini-project involves building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions. The goal is to extract and transform data from Excel files, create structured CSV files, design an ERD and schema, and load the data into a PostgreSQL database.
 
+## Team Members
+1. Evan Gowans
+2. Karla Lopez
+3. Lovecy Thomas
+
 ## Project Structure
 - Extract data from `crowdfunding.xlsx` and `contacts.xlsx`.
 - Transform the data into structured DataFrames for categories, subcategories, campaigns, and contacts.
